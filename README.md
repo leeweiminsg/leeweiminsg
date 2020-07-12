@@ -14,4 +14,6 @@ Check out my [articles](https://leeweimin.substack.com)
   <img align="left" alt="Lee Wei Min's personal website" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/wordpress.svg" />
 </a>
 
+<br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leeweiminsg.leeweiminsg)
