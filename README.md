@@ -2,7 +2,7 @@
 
 Check out my [articles](https://leeweimin.substack.com)
 
-<a href="https://twitter.com/techonomistsg">
+<a href="https://twitter.com/techonomistsg" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Lee Wei Min twitter account" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 
